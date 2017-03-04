@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game">
+    <Position X="1.5" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Game::Process">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="Game::Process::User">
+            <Compartments>
+              <Compartment Name="Fields" Collapsed="true" />
+              <Compartment Name="Methods" Collapsed="true" />
+            </Compartments>
+            <TypeIdentifier>
+              <NewMemberFileName>Source.cpp</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+          <Class Name="Game::Process::AI">
+            <Compartments>
+              <Compartment Name="Fields" Collapsed="true" />
+              <Compartment Name="Methods" Collapsed="true" />
+              <Compartment Name="Nested Types" Collapsed="false" />
+            </Compartments>
+            <NestedTypes>
+              <Class Name="Game::Process::AI::color">
+                <Compartments>
+                  <Compartment Name="Fields" Collapsed="true" />
+                </Compartments>
+                <TypeIdentifier>
+                  <NewMemberFileName>Source.cpp</NewMemberFileName>
+                </TypeIdentifier>
+              </Class>
+            </NestedTypes>
+            <TypeIdentifier>
+              <NewMemberFileName>Source.cpp</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Source.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAIAAAAUAAAAAAAAAAAAAAAIBAgQAAQAAAAIZAACAQA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
